@@ -2,7 +2,7 @@ import hmac
 import hashlib
 
 from errbot import BotPlugin, webhook
-from cmlCiscoSparkSDK import sparkapi
+import ciscosparkapi as sparkapi
 
 
 class CiscoSparkWebhook(BotPlugin):
