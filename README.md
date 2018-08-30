@@ -1,6 +1,10 @@
 err-webhook-cisco-spark
 ======
 
+
+DEPRECATED: Please use https://github.com/marksull/err-backend-cisco-webex-teams
+
+
 This is an errbot (http://errbot.io) webhook for Cisco Spark (https://www.ciscospark.com) that works with the
 Cisco Spark Backend (https://github.com/marksull/err-backend-cisco-spark)
 
